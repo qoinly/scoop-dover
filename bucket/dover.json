@@ -1,13 +1,12 @@
 {
-  "version": "0.0.0",
+  "version": "0.18.3",
   "description": "Local-first API client alternative. Plugins included.",
   "homepage": "https://www.usedover.app",
   "license": "Proprietary",
-  "notes": "Placeholder manifest. First Windows release ships with v0.18.3.",
   "architecture": {
     "64bit": {
       "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.0.0/Dover-0.0.0-windows-amd64.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "cd406755182b773decebb621a0a6c407388c53431d3b76a685cf2c9368efbabb"
     }
   },
   "bin": "Dover.exe",
