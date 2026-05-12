@@ -5,7 +5,7 @@
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.0.0/Dover-0.0.0-windows-amd64.zip",
+      "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.18.3/Dover-0.18.3-windows-amd64.zip",
       "hash": "cd406755182b773decebb621a0a6c407388c53431d3b76a685cf2c9368efbabb"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/qoinly/scoop-dover/releases/download/v$version/Dover-$version-windows-amd64.zip"
+        "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.18.3/Dover-0.18.3-windows-amd64.zip"
       }
     }
   }
