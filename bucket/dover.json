@@ -9,7 +9,6 @@
       "hash": "c351856fcb1e319c87aee1abc852eb21d70e348432e53910014d5d015d236e04"
     }
   },
-  "bin": "Dover.exe",
   "shortcuts": [
     ["Dover.exe", "Dover"]
   ],
