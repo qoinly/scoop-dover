@@ -1,12 +1,12 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "description": "Local-first API client alternative. Plugins included.",
   "homepage": "https://www.usedover.app",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.19.0/Dover-0.19.0-windows-amd64.zip",
-      "hash": "81770f1dcde0c695c0088741eb0f37c03cd65138d557339fe7f59710390dcbc5"
+      "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.20.0/Dover-0.20.0-windows-amd64.zip",
+      "hash": "dc1f25378dcea32dfdcfed7fc3948ba184933914d2509a42727698e1f381bae8"
     }
   },
   "shortcuts": [
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.19.0/Dover-0.19.0-windows-amd64.zip"
+        "url": "https://github.com/qoinly/scoop-dover/releases/download/v0.20.0/Dover-0.20.0-windows-amd64.zip"
       }
     }
   }
